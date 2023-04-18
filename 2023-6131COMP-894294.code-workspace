@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../1st"
+		},
+		{
+			"name": "zip",
+			"path": "../zip"
+		},
+		{
+			"name": "jj",
+			"path": "../jj"
+		},
+		{
+			"name": "blink_test",
+			"path": "../blink_test"
+		},
+		{
+			"name": "CW",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
