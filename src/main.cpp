@@ -1,5 +1,5 @@
 #include "main.h"
- int x;
+
 DHTesp dht;
 int tempMin =-9999;
 int tempMax =9999;
