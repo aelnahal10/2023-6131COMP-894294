@@ -263,5 +263,6 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "C_Cpp_Runner.useAddressSanitizer": false
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "cmake.sourceDirectory": "${workspaceFolder}/.pio/libdeps/esp32doit-devkit-v1/ArduinoJson/src"
 }

@@ -1,0 +1,28 @@
+{
+  "name": "2223-6131comp-894294",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test",
+    "data": "data"
+  },
+  "scripts": {
+    "start": "node data/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelnahal10/2223-6131COMP-894294.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelnahal10/2223-6131COMP-894294/issues"
+  },
+  "homepage": "https://github.com/aelnahal10/2223-6131COMP-894294#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
